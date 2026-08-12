@@ -1,0 +1,14 @@
+body{
+background-color: aqua;
+line-height: 1.5;
+font-family: Arial, Helvetica, sans-serif;
+}
+header{
+background-color: rgb(226, 43, 107);
+font-family: 'Times New Roman', Times, serif;
+color: rgba(255, 192, 193, 0.904);
+}
+color: yellow;
+a:hover{
+    color: yellow;
+}
